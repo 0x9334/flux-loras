@@ -1,0 +1,14 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch
+torchvision
+transformers
+numpy==1.26.4
+fastapi[standard]
+singleton_decorator
+accelerate
+sentencepiece
+protobuf
+peft
+gdown
+diffusers
+mmgp
